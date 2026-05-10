@@ -10,13 +10,13 @@
 ## 🚀2026年好用的 SS/SSR/V2ray/Trojan 节点机场推荐
 经过测速评价精选好用的翻墙机场节点，提供 Shadowsocks、ShadowsocksR、Vmess、Vless（Reality）、Trojan、Hysteria 多种协议，支援 Clash、Shadowrocket（小火箭）、Stash（Clash for iOS）、Quantumult X（圈叉）、Surge、V2rayN、sing-box 等多种流行的翻墙客户端。下面并非机场排名，可以根据翻墙机场特点、价格等因素选择自己最中意的，建议购买月付套餐，满意之后再决定是否购买更长时间套餐。
 
-### 尔湾云-2026稳定Clash节点机场  
+### 尔湾云-2026稳定的Clash节点机场  
 
 ![尔湾云机场](https://discuss.d2l.ai/uploads/default/original/3X/4/e/4e7ced8daaf1a8bb6841f19f15cd50ebbac79d16.jpeg)
 
 
 [**官方网站注册**](https://affgo.cc/ewan)  
-1. 基础套餐只要13元/月，简直就是半公益机场；
+1. 基础套餐24元/月，使用美国高速节点，稳定抗封锁能力强；
 2. 提供丰富的套餐配置选择，满足大部分科学上网者不同的应用场景需求；
 3. 所有节点都能稳定解锁奈飞NetFlix/HULU/HBO/TVB/动画疯等国外流媒体视频；
 4. 支持解锁ChatGPT、Tiktok等常用网站；
@@ -29,17 +29,17 @@
 
 
 [**官方网站注册**](https://affgo.cc/yafa) 
-1. 基础套餐15元/月；
+1. 基础套餐19元/月；
 2. 流量充足，价格便宜，线路节点档次分明，提供不限时永久有效流量套餐；
 3. 支持主流客户端SSR/V2Ray订阅链接；
 4. 拥有遍布全球的CN2 GIA/BGP/IPLC内网专线等优质线路节点；
 5. 国内采用CN2/BGP入口，隧道中转，速度快且稳定；
 6. 所有付费节点均可解锁奈飞NetFlix/HULU/HBO等国外流媒体；
 
-### 速云梯-2026大流量机场节点梯子  
+### 疾风梯-2026大流量机场节点梯子  
 
-[**官方网站注册**](https://affgo.cc/suyu)  
-1. 老牌高端机场，基础套餐18 元/月；
+[**官方网站注册**](https://affgo.cc/jife)  
+1. 老牌高端机场，基础套餐 19 元/月；
 2. 流量吃到饱，套餐档次分明，丰俭由人；
 3. 支持主流客户端SSR/V2Ray订阅链接；
 4. 拥有遍布全球的CN2 GIA/BGP/IPLC内网专线等优质线路节点，抗封锁永不掉线；
